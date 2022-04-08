@@ -1,0 +1,8 @@
+.gridTable {
+  /* max-width: 1150px; */
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
